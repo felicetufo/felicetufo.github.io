@@ -7,6 +7,11 @@ body {
     padding:0 10px
 }
 
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 h1,h2,h3 {
     line-height:1.2
 }
