@@ -1,0 +1,1 @@
+async function whatever(){var e='<a name="mail" href="mailto:{{spam@uce.gov}}">{{spam@uce.gov}}</a>'.replace(/{{.+?(}})/g,"&#105;&#110;&#102;&#111;&commat;&#102;&#101;&#108;&#105;&#099;&#101;&#116;&#117;&#102;&#111;&period;&#099;&#111;&#109;");document.getElementById("whatever").innerHTML=e}whatever();
